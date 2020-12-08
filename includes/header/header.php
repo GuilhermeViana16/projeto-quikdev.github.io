@@ -14,7 +14,7 @@
 
 
   <!-- Bootstrap core CSS -->
-  <link href="http://127.0.0.1:8080/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->  
   <link href="pricing.css" rel="stylesheet">
